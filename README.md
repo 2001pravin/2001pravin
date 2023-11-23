@@ -1,5 +1,14 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pravin Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+### :👨‍💻: About Me 
+- 🧑🏻‍💻 Pronouns: He/him/his
+- 💼 I’m currently I looking for a job.
+- 📋 I have just completed my graduation.
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love speaking at events and connecting with people.
+- 📫 How to reach me: Check social links below.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
