@@ -29,11 +29,12 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2001pravin&show_icons=true&theme=highcontrast)
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2001pravin&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=2001pravin&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001pravin&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 <h3 align="center">🔗Connect with me:</h3>
 <p align="center">
