@@ -27,7 +27,7 @@
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=2001pravin&show_icons=true&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=2001pravin&show_icons=true&locale=en&layout=compact)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pravin-patil-b4577b250/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://www.instagram.com/pravin_18092001/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
