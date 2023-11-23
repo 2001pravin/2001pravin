@@ -25,14 +25,14 @@
 
 
 ### :fire: Streaks 
-[![GitHub Streak](https://streak-stats.demolab.com?user=2001pravin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=2001pravin&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
 
 
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2001pravin&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001pravin&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001pravin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
