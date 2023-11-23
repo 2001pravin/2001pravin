@@ -6,6 +6,7 @@
 - 📋 I have just completed my graduation.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
+- 💬 Ask me about **Java , MySql**
 - 📫 How to reach me: Check social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
