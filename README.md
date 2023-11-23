@@ -25,7 +25,7 @@
 
 
 ### :fire: Streaks 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=&theme=highcontrast&hide_border=true?user=2001pravin&)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=2001pravin&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=2001pravin&show_icons=true&locale=en)
