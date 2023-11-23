@@ -8,6 +8,7 @@
 - 🎭 I love speaking at events and connecting with people.
 - 🌱 I’m currently learning **Java and its different framerworks📊**
 - 💬 Ask me about **Java , MySql , Spring Boot , Hibernate , spring security , JDBC , J2EE , JPA**
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 - 📫 How to reach me: Check social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
@@ -37,5 +38,4 @@
 <a href="https://leetcode.com/pravin1809/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pravin18fijv" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="priyankeshraj" height="40" width="40" /></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
-
 </p>
