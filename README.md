@@ -7,7 +7,7 @@
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
 - 🌱 I’m currently learning **Java and its different framerworks📊**
-- 💬 Ask me about **Java , MySql , Spring Boot , Hibernate , spring security , JDBC , J2EE , JPA **
+- 💬 Ask me about **Java , MySql , Spring Boot , Hibernate , spring security , JDBC , J2EE , JPA**
 - 📫 How to reach me: Check social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
