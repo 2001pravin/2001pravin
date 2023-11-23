@@ -1,6 +1,6 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pravin Patil</h1>
 
-### :woman_technologist: About Me 
+### :Men_technologist: About Me 
 - 👩🏻‍💻 Pronouns: She/Her
 - 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [CRED](cred.club).
 - 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).
