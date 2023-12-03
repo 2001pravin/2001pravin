@@ -1,4 +1,4 @@
-<h1 align="left"><img src=https://github.com/2001pravin/2001pravin/assets/113687095/7f9bb8c5-efbb-48fc-972b-790ad36b756f/><h1> Hii,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pravin Patil</h1>
+<h1 align="right"><img src=https://github.com/2001pravin/2001pravin/assets/113687095/7f9bb8c5-efbb-48fc-972b-790ad36b756f/><h1> Hii,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pravin Patil</h1>
 
 
 
